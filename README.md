@@ -19,5 +19,5 @@ Built a centralized dashboard with a visual pipeline, detailed client profiles, 
 Dashboard screens and a detailed case study presentation are included in this repository
 
 6. Links
-File Link -
-Prototype Link -
+File Link - https://www.figma.com/design/yBxXQpG5SOAeoG2qvLY8CR/Task-3?node-id=20-2&p=f&t=SsYlwAoTnuFB1ZrE-0
+Prototype Link - https://www.figma.com/proto/yBxXQpG5SOAeoG2qvLY8CR/Task-3?node-id=20-2&t=Y3QVdn0yBwe3GXzl-1
